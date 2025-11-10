@@ -64,3 +64,5 @@ interior_particles:
   type: ENCHANTMENT_TABLE
   count: 8
   interval_ticks: 15
+<img width="2560" height="1369" alt="2025-11-09_21 38 34" src="https://github.com/user-attachments/assets/ed2e7f15-01b9-4ad9-8a49-39448244e19f" />
+
