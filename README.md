@@ -39,6 +39,7 @@ Each portal is **linked automatically** through a chest key system — no comman
   - All portals are stored in `config.yml`.
   - Auto-rebuild works after restarts or reloads.
 
+<img width="2560" height="1369" alt="2025-11-09_21 38 34" src="https://github.com/user-attachments/assets/ab276b22-3a52-4d06-9ec3-bde29d13a353" />
 ---
 
 ## ⚙️ Configuration
@@ -64,5 +65,7 @@ interior_particles:
   type: ENCHANTMENT_TABLE
   count: 8
   interval_ticks: 15
-<img width="2560" height="1369" alt="2025-11-09_21 38 34" src="https://github.com/user-attachments/assets/ed2e7f15-01b9-4ad9-8a49-39448244e19f" />
+
+
+
 
